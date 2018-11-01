@@ -1,3 +1,71 @@
+# 朱嵘
+
+> 前端工程化、效率提升、组件复用性、前端业务逻辑开发、代码优化
+
+- 男 / 1996 / 2019届
+- 本科 / 江西财经大学软件工程专业
+- 期望职位： Web前端工程师
+
+# 联系方式
+
+- 手机：18370153530
+- Email：940223872@qq.com
+- QQ/微信: 940223872/zsmj1110zsmj
+
+# 个人信息
+
+ - [Github](https://github.com/ZhuRon)
+ - [掘金](https://juejin.im/user/5a2f2dce6fb9a045257813b0/posts)
+ - 关键词：`记录得失` `追求效率` `热爱开源` `创造价值` `学习新技术` `深入思考问题` 
+ 
+# 实习经历
+
+## 鸿钧科技
+> 实习时间（ 2018年8月 ~ 2018年11月 ）
+<br/>
+
+### megatech.ai
+
+- 技术栈 `vue`  `node.js` `webpack` `ES6` 
+
+>项目经历： 采用vux作为ui组件库,数据图表方面使用echart，vue-router进行路由管理。八月底开始，十月一号完成第一版demo并且上线进行内部测试。
+
+>项目地址  earth.megatech.today:9999
+
+
+---
+
+# 开源项目
+- [微信小程序-lingvist]()
+    - 关键词 `小程序` `WEUI` `iconFont` `掘金` 
+    - 地址 https://juejin.im/post/5a312794f265da43231af9c4 
+    - 备注 小程序刚火的时候开始学习，因为很喜欢lingvist的ui界面所以仿造其app写了一个
+
+- [React 迁移性学习]()
+    - 关键词 `React` `掘金`
+    - 地址 https://juejin.im/user/5a2f2dce6fb9a045257813b0/posts
+    - 备注 做react的迁移性学习的时候，看了阮一峰老师前几年写的文章于是仿造写了一篇更新语法的文章
+- [VUE-党员管理系统]()
+    - 关键词 `Vue` `Vuex` `rem` `cube-ui`
+    - 地址 https://github.com/ZhuRon/management-system
+    - 备注 因为在学校的经历所以准备写这个项目，正准备进行2.0迭代
+
+# 技能清单
+
+- 基础： HTML / JavaScript / CSS
+- 前端框架：Vue / React
+- 前端工具：Webpack / Gulp / LeSS / Stylus
+- 可视化： ECharts
+- 后端语言： Node.js
+- 版本管理、文档和自动化部署工具：Git 
+- 数据库相关： MongoDB / Mongoose 
+- 图像编辑工具 ：sketch
+
+# 致谢
+感谢您花时间阅读我的简历，期待能有机会和您共事。
+
+
+
 
 # 介于界面改动使一些效果被迫放弃，特此笔记所录
 ## css做向上向下箭头
